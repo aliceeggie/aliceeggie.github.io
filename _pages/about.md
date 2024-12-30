@@ -2,7 +2,7 @@
 layout: about
 title: 🇰🇷 About Me
 permalink: /
-subtitle: Bumjini
+subtitle: Alice Eggie
 order : 1 
 profile:
   align: right
@@ -29,6 +29,6 @@ social: false  # includes social icons at the bottom of the page
 }
 </style>
 
-<img src="assets/img/bp.png" class="styled-image">
+<img src="assets/img/ae.jpeg" class="styled-image">
 
 
