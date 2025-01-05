@@ -7,7 +7,7 @@ date: 2024-12-29
 featured: true
 img: https://d2acbkrrljl37x.cloudfront.net/bumjini-blog/shoji01.jpeg
 title: 'Ueda Shoji'
-category: 'AI'
+category: 'Life'
 description: '예술인에 대한 주관적인 생각'
 _styles: >
     .table {

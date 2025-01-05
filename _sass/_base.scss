@@ -182,6 +182,8 @@ figure, img {
   height: auto;
   margin-top: 0.0rem;
   display: block;
+  margin-bottom: 0.0rem;
+  margin-top: 0.0rem;
 }
 
 @media (max-width: 768px) {
@@ -226,6 +228,8 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
   }
 
   .card-item {
@@ -236,6 +240,12 @@ blockquote {
       display: flex;
       align-items: center;
     }
+  }
+
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
   }
 }
 
@@ -552,14 +562,19 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
+    color: #676767;
+    border-bottom: 2px solid #676767;
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
   }
 }
+
+.card-body{
+ padding: 0.8rem;
+}
+
 
 
 // Publications
@@ -683,6 +698,7 @@ footer.sticky-bottom {
     }
   }
 }
+
 
 // Rouge Color Customization
 figure.highlight {
