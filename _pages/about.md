@@ -29,7 +29,9 @@ social: false  # includes social icons at the bottom of the page
 }
 </style>
 
-<img src="assets/img/ae.jpeg" class="styled-image">
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji06.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
+
+<!-- <img src="assets/img/ae.jpeg" class="styled-image"> -->
 
 <p style="text-align:center;">
 이 블로그는 다양한 사람들이 모여 작성된 글입니다.
