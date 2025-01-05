@@ -2,7 +2,7 @@
 layout: about
 title: 🇰🇷 About Me
 permalink: /
-subtitle: Alice Eggie
+subtitle: From a Friend of Alice Eggie
 order : 1 
 profile:
   align: right
@@ -31,4 +31,7 @@ social: false  # includes social icons at the bottom of the page
 
 <img src="assets/img/ae.jpeg" class="styled-image">
 
+<p style="text-align:center;">
+이 블로그는 다양한 사람들이 모여 작성된 글입니다.
+</p>
 
