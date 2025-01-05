@@ -3,7 +3,7 @@ layout: distill
 bibliography: all.bib
 giscus_comments: false
 disqus_comments: false
-date: 2024-12-29
+date: 2025-01-05
 featured: true
 img: https://d2acbkrrljl37x.cloudfront.net/bumjini-blog/shoji01.jpeg
 title: 'Ueda Shoji'
@@ -28,10 +28,13 @@ _styles: >
     .styled-image:hover {
         transform: scale(1.2);
     }
+    .no-hover {
+        pointer-events: none;
+    }
 
 ---
 
-<img src="https://d2acbkrrljl37x.cloudfront.net/bumjini-blog/shoji01.jpeg" width="80%" height="auto" class="styled-image"/>
+<img src="https://d2acbkrrljl37x.cloudfront.net/bumjini-blog/shoji01.jpeg" width="80%" height="auto" class="styled-image no-hover"/>
 
 
 ## 주의
@@ -58,3 +61,30 @@ _styles: >
 결국 중요한 것은 대상에 대한 전반적인 이해와 이를 작품으로 표현하는 능력입니다. 이는 박사과정인 제 목표와 유사합니다. 박사과정은 스스로 하나의 연구를 완성하는 과정이며, 이 작업은 다양한 형태로 확장될 수 있지만 먼저 하나의 대상을 철저히 탐구해야 합니다. 따라서 **대상을 다루는 방식**은 일생을 걸쳐 정립되어야 합니다.
 
 대상을 다루는 방식은 미리 정의되는 것이 아니라, 창작 과정을 통해 예술가가 스스로 추구하는 것을 이해하고 형성하는 과정이라 할 수 있습니다. 외적 형태는 다를 수 있으나, 궁극적으로 예술가는 자신이 정한 **무언가**를 표현하려고 노력합니다.
+
+---
+
+# 쇼지의 작품
+
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji06.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
+
+---
+
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji01.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
+
+---
+
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji02.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
+
+---
+
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji03.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
+
+---
+
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji04.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
+
+---
+
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji05.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
+
