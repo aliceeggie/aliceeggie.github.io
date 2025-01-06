@@ -37,16 +37,18 @@ _styles: >
 <img src="https://d2acbkrrljl37x.cloudfront.net/bumjini-blog/shoji01.jpeg" width="80%" height="auto" class="styled-image no-hover"/>
 
 
-## 주의
+<!-- ## 주의
 
-이 글은 예술가에 대한 한 가지 의견을 제시합니다. 예술의 진리를 탐구하기 위해 예술가의 특징을 이해하려는 시도이며, 이는 수많은 가능성 중 하나일 뿐입니다. 모든 상황에 일반적으로 적용되거나 절대적인 답이 아닙니다. 이 글이 단지 다양한 접근 중 하나로, 독자의 여정에 작은 도움이 되길 바랍니다.
+이 글은 예술가에 대한 한 가지 의견을 제시합니다. 예술의 진리를 탐구하기 위해 예술가의 특징을 이해하려는 시도이며, 이는 수많은 가능성 중 하나일 뿐입니다. 모든 상황에 일반적으로 적용되거나 절대적인 답이 아닙니다. 이 글이 단지 다양한 접근 중 하나로, 독자의 여정에 작은 도움이 되길 바랍니다. -->
 
 ## 논지
 
 우메다 쇼지의 60년간의 사진을 되짚어 보며, 가장 기억에 남는 점은 **그가 선을 다루는 방식**이었습니다. 그의 초기 작품부터 후기 작품까지 공통적으로 드러나는 이 특징은, 다양한 시도들로 인해 흐려지는 순간도 있었으나 결국 그의 스타일로 자리 잡았습니다.
 
-여기서 주장하고자 하는 바는 다음과 같습니다.  
+내가 찾은 답은 다음과 같습니다 <d-footnote> 물론, 이건 수많은 정답 중에 단 한 조각에 불과하겠지만요. </d-footnote>.  
+
 **"예술가는 자신의 몇 가지 주요 특징에 기반하여 일생의 작품을 표현해야 한다."**  
+
 이를 설명하기 위해 몇 가지 오해의 여지를 해소하고 관련된 근거를 살펴보겠습니다.
 
 1. **특징이란 무엇인가?**  
@@ -68,13 +70,11 @@ _styles: >
 
 <img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji06.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
 
+
+
 ---
 
 <img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji01.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
-
----
-
-<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji02.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
 
 ---
 
@@ -86,5 +86,12 @@ _styles: >
 
 ---
 
-<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji05.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji02.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
 
+
+---
+
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji05.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
+<!-- <figcaption>
+노란 어린이. 
+</figcaption> -->
