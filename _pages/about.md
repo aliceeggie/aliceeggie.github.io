@@ -1,8 +1,8 @@
 ---
 layout: about
-title: 🇰🇷 About Me
+title: About Me
 permalink: /
-subtitle: From a Friend of Alice Eggie
+subtitle: Art & Science Vibe 
 order : 1 
 profile:
   align: right
@@ -17,7 +17,6 @@ social: false  # includes social icons at the bottom of the page
 
 <style>
 .styled-image {
-    width: 300px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     margin: 20px auto;
@@ -29,11 +28,9 @@ social: false  # includes social icons at the bottom of the page
 }
 </style>
 
-<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji06.jpeg" width="90%" height="auto" class="styled-image no-hover"/>
-
-<!-- <img src="assets/img/ae.jpeg" class="styled-image"> -->
+<img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/umeda_shoji06.jpeg" width="70%" height="auto" class="styled-image no-hover"/>
 
 <p style="text-align:center;">
-이 블로그는 다양한 사람들이 모여 작성된 글입니다.
+알려줘. 
 </p>
 
