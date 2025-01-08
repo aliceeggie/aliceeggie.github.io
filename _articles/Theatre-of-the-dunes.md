@@ -102,9 +102,7 @@ Vertical은 사람, 식물,
 
 
 <p style="text-align: center;">
-  한가지 재미있는 사실은 <strong>쇼지가 이마와 모래언덕의 선을 연결한 방식</strong>입니다. 
-<br>
-  아래 사진을 살펴보겠습니다. 
+  한가지 재미있는 사실은 <br> <strong>쇼지가 이마와 모래언덕의 선을 연결한 방식</strong>입니다. 
 </p>
 
 <div style="display: flex; justify-content: space-between;">
@@ -134,12 +132,27 @@ Vertical은 사람, 식물,
 
 <p class="gray-card" style="text-align: center;">
 
+죽음과 죽음, 
+<br>
+다시 또 죽음을 상징할 수 있어요. 
+<br>
+하지만 나는 여기서 앞으로 나아가는 <strong style="color: #002260;">별을 봅니다.</strong>
+
+
 <img src="https://d2acbkrrljl37x.cloudfront.net/ay-blog/Theatre of the dunes4.jpeg" width="70%" height="auto" class="styled-image no-hover"/>
 
+<br>
+마른 불가사리는 그의 뒤에 이어진 죽은 풀의 선으로 인해 
+<br>
+왼쪽에서 오른쪽으로 자라나는 것처럼 보입니다. 
+<br>
+<br>
 
-다른 사진들과 다르게 죽음과 죽음, 그리고 또 죽음을 상징할 수 있어요. 하지만 나는 여기서 앞으로 나아가는 별을 봅니다.
-마른 불가사리는 그의 뒤에 이어진 죽은 풀의 선으로 인해 왼쪽에서 오른쪽으로 자라나는 것처럼 보입니다. 
-죽음처럼 보이는 요소들이지만, 움직임과 방향성이 느껴집니다. 흑백의 사진은 하늘과 산, 그리고 땅을 명확히 나누지 않습니다. 
+죽음처럼 보이는 요소들이지만, <br>움직임과 방향성이 느껴집니다. 
+<br>
+흑백의 사진은 
+<br>
+하늘과 산,그리고 땅을 명확히 나누지 않습니다. 
 <br>
 <br>
 선보다는 면으로 보이고, 
@@ -155,6 +168,6 @@ Vertical은 사람, 식물,
 <br>
 바짝 마른 불가사리는 사실 
 <br>
-우리의 반짝이는 <strong style="color: #3322FF;">별똥별</strong>입니다.</strong>
+우리의 반짝이는 <strong style="color: #3322BB;">별똥별</strong>입니다.</strong>
 </p>
 
